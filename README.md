@@ -1,10 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Aliza</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
-<h5 align="center">I'm Student, Developer, and Learner</h5>
-
-##
+<h3 align="center">I'm Student, Developer, and Learner</h3>
 
 ##  About Me
 
